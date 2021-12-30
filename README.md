@@ -1,2 +1,4 @@
 # Auto-Shutdown
-Automatically shutdown, restaret or sign out on Windows.
+A simple Python script with error handling to automatically shutdown, restart or sign out after a specific time for Windows users.
+No installation or uninstallation required.
+No extra libraries are required.
